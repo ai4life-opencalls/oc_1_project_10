@@ -1,6 +1,6 @@
-config.json
-results
-workspaces
+pipeline/config.json
+pipeline/results
+pipeline/workspaces
 **/.DS_Store
 # Byte-compiled / optimized / DLL files
 **/__pycache__
