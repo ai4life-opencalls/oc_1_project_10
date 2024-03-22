@@ -1,6 +1,8 @@
 pipeline/config.json
 pipeline/results
 pipeline/workspaces
+.pre-commit-config.yaml
+
 **/.DS_Store
 # Byte-compiled / optimized / DLL files
 **/__pycache__
