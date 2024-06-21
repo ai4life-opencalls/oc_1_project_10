@@ -26,7 +26,7 @@ conda env create -f ./env.yml
 - `numpy`
 - `matplotlib`
 - `pytables`
-- `pandas == 1.5.0`
+- `pandas`
 - `scipy == 1.11`
 - `scikit-learn`
 - `flowkit`
@@ -41,6 +41,10 @@ git clone https://github.com/ai4life-opencalls/oc_1_project_10.git
 cd oc_1_project_10
 jupyter lab
 ```
+
+## Data
+You can download a provided dataset from [here](https://zenodo.org/records/12206170).  
+
 
 ## Pipeline Usage
 The whole pipline divided into the three steps:  
