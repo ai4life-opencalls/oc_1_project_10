@@ -4,7 +4,7 @@
   </a>
 </p>
 
-[![DOI](https://zenodo.org/badge/773410489.svg)](https://doi.org/10.5281/zenodo.15912249)   Data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12206170.svg)](https://doi.org/10.5281/zenodo.12206170)
+[![Code DOI](https://zenodo.org/badge/773410489.svg)](https://doi.org/10.5281/zenodo.15912249)  [![Data DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12206170.svg)](https://doi.org/10.5281/zenodo.12206170)
 
 
 # Project #10: Image-guided gating strategy for image-enabled cell sorting of phytoplankton
